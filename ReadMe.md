@@ -1,6 +1,6 @@
 <h1 align="center">Hey 😁, I'm Arthur Silva</h1>
-<p style="width:140px">
-<img align="left" src="AnimeMe.png" />
+<p >
+<img align="left" style="width:340px" src="AnimeMe.png" />
 </p>
 <h3 align="center">A passionate Full Stack developer born in Brazil 🇧🇷 but raised in sunny South Florida.</h3>
 <br/>
